@@ -1,0 +1,8 @@
+[package]
+name = "yen"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+graphs = { git = "https://github.com/TiagoCavalcante/graphs", tag = "0.2.0" }
+pathfinding = "3.0.13"
